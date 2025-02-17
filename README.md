@@ -15,10 +15,15 @@ I'm a passionate developer from France 🇫🇷
 - 💬 N'hésite pas à me poser des questions ici[here](https://github.com/massiresogore)
 
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code> 
+<code><img height="30" alt="symfony" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="30" alt="angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <code><img height="30" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" alt="symfony" src="https://raw.githubusercontent.com/github/explore/main/topics/symfony/symfony.png"></code>
+<code><img height="30" alt="symfony" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
+
+
+
 
 
 
