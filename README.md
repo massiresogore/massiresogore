@@ -12,7 +12,7 @@ I'm a passionate developer from France 🇫🇷
 
 - 🚀 Toujours curieux d'explorer de nouvelles technologies et d'améliorer mes compétences
 
-- 💬 N'hésite pas à me poser des questions ici[here](https://github.com/massiresogore)
+- 💬 N'hésite pas à me poser des questions [ici](https://github.com/massiresogore)
 
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code> 
 <code><img height="30" alt="symfony" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
