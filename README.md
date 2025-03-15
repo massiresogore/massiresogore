@@ -6,7 +6,7 @@ I'm a passionate developer from France 🇫🇷
 
 **About me**
 
-- 🎓 Étudiant en fin d'année à l'Université de Reims Champagne-Ardenne
+- 🎓 Étudiant  à l'Université de Reims Champagne-Ardenne
 
 - 💻 J'adore coder en Java et créer des applications avec React ou Symfony
 
